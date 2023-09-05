@@ -1,0 +1,14 @@
+../mydriver/Src/SPI.c:13:13:SPI_CloseISR_TX	16	static
+../mydriver/Src/SPI.c:21:13:SPI_CloseISR_RX	16	static
+../mydriver/Src/SPI.c:28:13:SPI_TransmitHelper_16Bits	16	static
+../mydriver/Src/SPI.c:40:13:SPI_TransmitHelper_8Bits	16	static
+../mydriver/Src/SPI.c:52:13:SPI_ReceiveHelper_16Bits	16	static
+../mydriver/Src/SPI.c:64:13:SPI_ReceiveHelper_8Bits	16	static
+../mydriver/Src/SPI.c:76:6:SPI_Init	24	static
+../mydriver/Src/SPI.c:84:6:SPI_PeriphState	16	static
+../mydriver/Src/SPI.c:93:6:SPI_TransmitData	24	static
+../mydriver/Src/SPI.c:116:16:SPI_GetFlagStatus	16	static
+../mydriver/Src/SPI.c:121:6:SPI_ReceiveData	24	static
+../mydriver/Src/SPI.c:142:6:SPI_TransmitData_Interrupt	32	static
+../mydriver/Src/SPI.c:163:6:SPI_ReceiveData_Interrupt	32	static
+../mydriver/Src/SPI.c:183:6:SPI_InterruptHandler	24	static
