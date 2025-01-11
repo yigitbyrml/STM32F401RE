@@ -1,0 +1,5 @@
+../mydriver/Src/USART.c:13:6:USART_Init	4
+../mydriver/Src/USART.c:65:6:USART_TransmitData	7
+../mydriver/Src/USART.c:96:6:USART_ReceiveData	10
+../mydriver/Src/USART.c:142:6:USART_PeriphState	2
+../mydriver/Src/USART.c:154:18:USART_GetFlagStatus	1
